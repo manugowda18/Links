@@ -130,7 +130,7 @@ const webLinks = [
     },
     {
         title: 'Contact',
-        url: 'manojgowdaks07@gmail.com',
+        url: 'mailto:manojgowdaks07@gmail.com',
         type: 'other',
         icon: '/email.svg',
         on: true
