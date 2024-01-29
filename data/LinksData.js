@@ -31,7 +31,7 @@ const webLinks = [
     },
     {
         title: 'Telegram',
-        url: 'https://github.com/manugowda18',
+        url: 'https://t.me/Ox_Myth',
         type: 'social',
         icon: '/tel.svg',
         on: true
