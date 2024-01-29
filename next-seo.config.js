@@ -4,14 +4,14 @@ export default {
         locale: 'en_IE',
         title: 'Manojgowda',
         url: 'https://0xmanu.me',
-        description: 'my own weblinks 0xmanu.me.',
+        description: 'my own web links 0xmanu.me.',
         locale: 'en_EN',
         keywords: 'Blockchain, Developer, Smart Contract, Etherum, vPolygon,',
         images: [
             {
                 width: 1200,
                 height: 630,
-                url: `https://vjy.me/preview.jpg`,
+                url: `/Logo.webp`,
             },
         ],
         site_name: '0xmanu',
