@@ -30,10 +30,10 @@ const webLinks = [
         on: false
     },
     {
-        title: 'Github',
+        title: 'Telegram',
         url: 'https://github.com/manugowda18',
         type: 'social',
-        icon: '/github.svg',
+        icon: '/tel.svg',
         on: true
     },
     {
@@ -108,32 +108,32 @@ const webLinks = [
     },
     // Install section
     {
-        title: 'Use this template',
-        url: 'https://github.com/realvjy/nxt-lnk/generate',
-        type: 'install',
-        icon: '/use.png',
-        on: false
-    },
-    {
-        title: 'Deploy on Vercel',
-        url: 'https://vercel.com/import/git?s=https://github.com/realvjy/nxt-lnk',
-        type: 'install',
-        icon: '/vercel.svg',
-        on: false
-    },
-    {
-        title: 'Documentation',
-        url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
-        type: 'install',
-        icon: '/doc.png',
-        on: false
-    },
-    {
         title: 'Github',
-        url: 'https://github.com/realvjy/nxt-lnk',
-        type: 'install',
-        icon: '/github-fill.svg',
-        on: false
+        url: 'https://github.com/manugowda18',
+        type: 'other',
+        icon: '/github.svg',
+        on: true
+    },
+    {
+        title: 'Portfolio',
+        url: 'https://0xmanu.me',
+        type: 'other',
+        icon: '/use.png',
+        on: true
+    },
+    {
+        title: 'Discord',
+        url: 'https://discord.com/users/manojgowdaks',
+        type: 'other',
+        icon: '/discord.svg',
+        on: true
+    },
+    {
+        title: 'Contact',
+        url: 'manojgowdaks07@gmail.com',
+        type: 'other',
+        icon: '/email.svg',
+        on: true
     },
 
     {
