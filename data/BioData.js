@@ -11,7 +11,7 @@ const bioData = [
         descShow: true,
         subdesc: '',
         subdescShow: false,
-        author: 'Gowda',
+        author: '0xManu',
         authorURL: 'https://www.linkedin.com/in/manojgowdaks/',
         footerText: 'made by'
     },
