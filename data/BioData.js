@@ -1,20 +1,18 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
-        titleImg: true,
-        avatar: '/avatar.png',
+        name: 'Manoj Gowda',
+        username: '0xmanu.me',
+        url: 'https://0xmanu.me',
+        titleImg: false,
+        avatar: '/Logo.webp',
         nftAvatar: true,
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
+        description: 'Blockchain Dev ',
         descShow: true,
-        subdesc: 'Use this template and deploy on vercel for free',
-        subdescShow: true,
-        newProductUrl: 'https://3dicons.co',
-        newProduct: true,
-        author: 'realvjy',
-        authorURL: 'https://twitter.com/realvjy',
+        subdesc: '',
+        subdescShow: false,
+        author: 'Gowda',
+        authorURL: 'https://www.linkedin.com/in/manojgowdaks/',
         footerText: 'made by'
     },
 ];
